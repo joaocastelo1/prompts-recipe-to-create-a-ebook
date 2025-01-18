@@ -12,7 +12,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/Alvaro-MSJR/prompts-recipe-to-create-a-ebook/blob/main/output/eBook%20SQL%20Matrix.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/joaocastelo1/prompts-recipe-to-create-a-ebook/blob/main/output/eBook%20SQL%20Matrix.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -56,15 +56,15 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 ## 👨‍💻 Devsenvolvedor
 
 <p>
-    <p>&nbsp&nbsp&nbspAlvaro Monteiro<br>
+    <p>&nbsp&nbsp&nbspJoão Castelo<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/Alvaro-MSJR">
+    <a href="https://github.com/joaocastelo1">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/alvaro-monteiro-silva-a0a1581a">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/joao-castelo-ferreira/">LinkedIn</a>
 &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
 <p>
 
 ---
-⌨️ conteúdo por [Alvaro Monteiro](https://github.com/Alvaro-MSJR)
+⌨️ conteúdo por [João Castelo](https://github.com/joaocastelo1)
